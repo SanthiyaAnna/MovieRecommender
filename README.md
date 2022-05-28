@@ -1,4 +1,4 @@
-# MovieRecommender
+# Movie Recommender System
 Movie Recommender system using content based filtering.  
 
 
