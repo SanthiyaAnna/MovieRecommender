@@ -1,6 +1,6 @@
 # Movie Recommender System
-Movie Recommender system using content based filtering.  
-
+ 
+A Movie recommendation system based on content-based filtering provides recommendations to the user by analyzing the description of the content that has been rated by the user.
 
 # Content Based filtering
   
